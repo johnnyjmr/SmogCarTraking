@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <car>
+        <stock>A16-180A</stock>
+        <year>2008</year>
+        <make>Subaru</make>
+        <model>Outback</model>
+        <vin>363667</vin>
+        <status>on lot</status>
+    </car>
+    <car>
+        <stock>A16-328</stock>
+        <year>2016</year>
+        <make>GMC</make>
+        <model>Yucon</model>
+        <vin>407590</vin>
+        <status>in transit</status>
+    </car>
+    <car>
+        <stock>A16-946</stock>
+        <year>2012</year>
+        <make>Toyota</make>
+        <model>Tacoma</model>
+        <vin>863930</vin>
+        <status> </status>
+    </car>
+
+
+</root>
